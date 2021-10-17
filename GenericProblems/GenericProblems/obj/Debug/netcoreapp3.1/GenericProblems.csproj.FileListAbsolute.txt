@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.exe
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.deps.json
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.dll
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\bin\Debug\netcoreapp3.1\GenericProblems.pdb
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.dll
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.pdb
+C:\Users\Lenovo\Desktop\Generic problems application\GenericProblems\GenericProblems\obj\Debug\netcoreapp3.1\GenericProblems.genruntimeconfig.cache
